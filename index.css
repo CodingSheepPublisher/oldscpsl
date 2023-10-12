@@ -1,0 +1,22 @@
+.oldslprojectstuff {
+	
+	margin: 4px;
+	/*Flex-wrap: ;*/
+}
+
+.centeredelement1 {
+
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 80vh;
+}
+
+.bluelink1 {
+
+	margin: 0px;
+	color: blue;
+	text-decoration: underline;
+}
+
